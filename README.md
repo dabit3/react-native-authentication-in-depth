@@ -16,7 +16,7 @@ git clone https://github.com/dabit3/react-native-authentication-in-depth.git
 yarn || npm install
 ```
 
-3. Update the following properties in aws-exports.js:    
+3. Update the following properties in `src/aws-exports.js`:    
 
 `aws_user_pools_web_client_id`
 
