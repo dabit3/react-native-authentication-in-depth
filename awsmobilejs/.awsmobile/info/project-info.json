@@ -1,0 +1,23 @@
+{
+	"ProjectName": "RNAuth",
+	"ProjectPath": "/Users/dabit/demos/RNAuth",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-02-05-16-39-33",
+	"LastConfigurationTime": "2018-02-05-16-39-38",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "2018-02-05-16-41-05",
+	"BackendLastBuildTime": "2018-02-05-16-40-42",
+	"BackendLastPushTime": "2018-02-05-16-41-00",
+	"BackendLastPushSuccessful": true,
+	"BackendProjectID": "0ae53bf9-f766-44ee-88a2-b5b333452bef",
+	"BackendProjectName": "RNAuthTest1",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/0ae53bf9-f766-44ee-88a2-b5b333452bef/build",
+	"BackendProjectCreationTime": "2018-02-06T00:39:46.616Z",
+	"BackendProjectLastUpdatedTime": "2018-02-06T00:41:00.099Z"
+}
